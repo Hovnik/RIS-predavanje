@@ -1,3 +1,3 @@
 # RIS-predavanje
 
-Projekt iz predmeta Razvoja informacijskih sistemov.
+Projekt iz predmeta Razvoj informacijskih sistemov.
