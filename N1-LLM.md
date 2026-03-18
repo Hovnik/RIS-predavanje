@@ -109,10 +109,6 @@ Administratorski del mora omogočati:
 - pregled statistike nakupov,
 - poljubne poizvedbe po podatkovni bazi,
 - upravljanje programa nagrad, ki je na voljo za točke,
-- upravljanje pravil prehajanja med statusi in nagrajevanja (predvsem spreminjanje vrednosti).
-
----
-
 # 3. Nefunkcionalne zahteve
 
 ## 1. Zmogljivost in kapaciteta
@@ -120,13 +116,10 @@ Administratorski del mora omogočati:
 - Sistem mora podpirati vsaj ~500.000 članov (vsaj 70 % strank).
 - Arhitektura mora omogočati bistveno večje število uporabnikov (širitev izven Slovenije).
 - Mesečni obračun točk mora biti izvedljiv nad celotno bazo članov.
-
 ## 2. Varnost
 
 - Registracija mora vključevati varen mehanizem potrditve lastništva e-poštnega naslova.
 - Uporabniški računi morajo omogočati identifikacijo uporabnikov pri prijavi v portal.
-
-## 3. Razširljivost in vzdrževanje
 
 - Pravila točkovanja in statusnih prehodov morajo biti nastavljiva brez spremembe koncepta sistema.
 - Sistem mora podpirati morebitno spremembo delitve statusnih nivojev.
@@ -134,10 +127,8 @@ Administratorski del mora omogočati:
 ## 4. Uporabniška izkušnja
 
 - Uporabniški vmesnik mora biti intuitiven.
-- Uporabljene morajo biti sodobne tehnologije.
 
 ## 5. Lokalizacija
-
 - Celotna rešitev mora podpirati dva jezika: **slovenščino** in **angleščino**.
 
 **Predpostavka A3:** podpora jezikom velja za članski in administratorski del portala.
