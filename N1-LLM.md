@@ -203,3 +203,7 @@ Oznake prioritet: **[M] Must**, **[S] Should**, **[C] Could**, **[W] Won't (v te
 | Nakupni program         | Vsebine, povezane s ponudbo za člane (izraz iz izvornega besedila).      |
 | Program nagrad          | Nabor nagrad/ugodnosti, ki so na voljo za točke.                         |
 | Konfigurabilnost pravil | Možnost spreminjanja vrednosti pravil brez večjih sprememb sistema.      |
+
+# 8. Konceptualni model
+
+<img src="shared/konceptualni-model.jpg" alt="Conceptual Model" width="1200"/>
